@@ -34,3 +34,8 @@ How to add or remove background in base:
 3. add background thumbnail in "background_images_background" array
 4. copy both image and its thumbnail version to images folder inside background_changer
    directory
+   
+To Contact
+------------------------------------------------------------
+email: info@silvereye.co
+website: http://www.silvereye.co/
