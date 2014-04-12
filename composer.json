@@ -1,0 +1,22 @@
+{
+    "name": "silvereye/background_changer",
+    "license": "MIT License",
+    "description": "Let you add Background in Roundcube interface",
+    "type": "roundcube-plugin",
+    "authors": [
+        {
+            "name": "Silvereye",
+            "email": "info@silvereye.co"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "general",
+            "url": "https://github.com/silvereye/background_changer"
+        }
+    ]
+    "require": {
+        
+    },
+    "minimum-stability": "dev-master"
+}
